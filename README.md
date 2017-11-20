@@ -17,6 +17,6 @@ This slicer is the commandline backend of Cura.
 
 You can install it in Ubuntu via
 
-'sudo apt-get install cura-engine'
+'''sudo apt-get install cura-engine'''
 
 Have a nice prints!
